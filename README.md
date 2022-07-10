@@ -54,7 +54,7 @@ In order to support genric CICD template and standardized production docker gene
 3)  If a model has components in seperate repos, they need to be merged into a single methodology repo for 1) Submission granularity, 2) ease of tempalting. 
 4) If above 3 are met, Model Service IT Innovator could provide an easy to maintain Dockerfile and CICD template for mehtodology to adopt. 
 On Process Automation: 
-Model Service IT Innovator can initiate project for GitLab prcoess automation, for example using python-gitlab api, Question: Does UBS GitLab exposes its GitLab server API?
+Model Service IT Innovator can initiate project for GitLab prcoess automation, for example using python-gitlab api, Question: Does GitLab exposes its GitLab server API?
  
 
 
